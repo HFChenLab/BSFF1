@@ -1,2 +1,2 @@
 # BSFF1
-RNA BSFF1 force field
+RNA BSFF1 force field parameter
